@@ -2,7 +2,8 @@ CITY = "beijing-530" #beijing-530 , tianjing-531 , dalian-600 , qingdao-703
 
 FANG_URL='localhost'
 FANG_DB="Zufang-"+CITY
-FANG_TABLE="Zufang-"+CITY
+FANGL_TABLE="location00"
+
 
 USER_AGENTS = [
     "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0",
