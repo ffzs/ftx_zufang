@@ -3,6 +3,7 @@ CITY = "beijing-530" #beijing-530 , tianjing-531 , dalian-600 , qingdao-703
 FANG_URL='localhost'
 FANG_DB="Zufang-"+CITY
 FANGL_TABLE="location00"
+FANG_TABLE="详情"
 
 
 USER_AGENTS = [
